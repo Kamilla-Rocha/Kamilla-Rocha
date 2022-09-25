@@ -1,7 +1,7 @@
 Olá!!Eu sou a Kamilla Rocha
 
 
-- 🔭 Estudante de Desenvolvimendo Java Full Stack Jr
+- 🔭 Estudante de Desenvolvimendo Web Java Jr
 
 <div align="center">
   <a href="https://github.com/Kamilla-Rocha">
