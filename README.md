@@ -1,7 +1,5 @@
-Olá!!Eu sou a Kamilla Rocha
+🔭 Olá!!Eu sou a Kamilla Rocha
 
-
-- 🔭 Estudante de Desenvolvimendo Back-End
 
 <div align="center">
   <a href="https://github.com/Kamilla-Rocha">
